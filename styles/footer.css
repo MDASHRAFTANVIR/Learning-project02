@@ -1,0 +1,72 @@
+footer {
+    background-color: black;
+    
+}
+
+.footer-main {
+    width: 80%;
+    margin-left: 10%;
+    padding: 130px 0;
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    color: white;
+}
+
+.footer-sub h2{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+}
+.footer-sub p{
+    width: 70%;
+    margin-bottom: 24px;
+}
+
+.email-contact {
+    color: #0083ee;
+    font-size: 18px;
+}
+
+.phone-contact {
+    color: #dae4ec;
+    font-size: 18px;
+}
+
+.logo img{
+    margin-right: 16px;
+}
+
+.info-collection input {
+    display: block;
+}
+
+.info-collection h3 {
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+#email {
+    border: 2px solid white;
+    padding:21px;
+    background-color: black;
+    color: white;
+    width: 325px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.subscribe {
+    border: none;
+    padding: 21px;
+    background-color:#005FAC;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;
+
+}
