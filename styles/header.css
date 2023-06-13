@@ -36,7 +36,6 @@ header {
 
 .right-content button {
     padding: 20px 25px;
-    color: #005FAC;
     float: right;
     border: none;
     border-radius: 5px;
@@ -51,4 +50,5 @@ header {
     font-weight: 600;
     font-size: 20px;
     line-height: 23px;
+    color: #005FAC;
 }
