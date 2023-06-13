@@ -1,0 +1,53 @@
+header {
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+
+.header-main {
+    display: flex;
+    justify-content: right;
+    
+}
+
+.right-content {
+    width: 30%;
+    margin-top: 210px;
+    margin-right: 210px;
+    padding: 20px;
+    position: relative;
+}
+
+.right-content h1 {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: white;
+    margin-bottom: 24px;
+}
+.right-content p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.right-content button {
+    padding: 20px 25px;
+    color: #005FAC;
+    position: absolute;
+    right: 0;
+    
+}
+
+.right-content a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+}
