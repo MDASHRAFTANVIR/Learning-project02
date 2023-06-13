@@ -1,0 +1,34 @@
+.planning-start {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.planning-start h2 {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 90px;
+}
+
+.different-plan {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 130px;
+}
+
+.plan img {
+    margin-bottom: 15px;
+}
+
+.plan h4 {
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.plan p {
+    font-weight: 500;
+    font-size: 18px;
+    color: #737272;
+}
