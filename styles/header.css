@@ -2,8 +2,6 @@ header {
     background-image: url('../images/banner/banner3.png');
     background-repeat: no-repeat;
     background-size: cover;
-
-    
 }
 
 .header-main {
@@ -16,13 +14,11 @@ header {
     width: 30%;
     margin-top: 210px;
     margin-right: 210px;
-    padding: 20px;
-    position: relative;
 }
 
 .right-content h1 {
     font-weight: 700;
-    font-size: 65px;
+    font-size: 55px;
     line-height: 76px;
     text-align: right;
     color: white;
@@ -40,8 +36,11 @@ header {
 .right-content button {
     padding: 20px 25px;
     color: #005FAC;
-    position: absolute;
-    right: 0;
+    float: right;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 166px;
+    
     
 }
 
